@@ -4,6 +4,11 @@
 
 ## Ativar o ambiente virtual (Caso já tenha a mesma com o comando python -m venv venv)
 
+Criando uma env:
+```bash
+python -m venv venv
+```
+
 Com o comando, você ativa:
 ```bash
 .\venv\Scripts\Activate
